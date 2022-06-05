@@ -1,0 +1,1 @@
+This directory contains screenshots of a trivia game about shell concepts. Playing the game was an advanced project in the Holberton curriculum.
